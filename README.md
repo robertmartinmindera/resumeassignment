@@ -1,2 +1,2 @@
 # resumeassignment
-This is an assigmnet to make an HTML resume
+This is an assigment to make an HTML resume
